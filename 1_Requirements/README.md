@@ -8,12 +8,12 @@
 
 
 ## Defining Our System
-1.Population of India
-2.Population of Srilanka
-3.Population of China
-4.Population of Bhutan
-5.population of Kenya
-6.Population of Bangladesh
+    1.Population of India
+    2.Population of Srilanka
+    3.Population of China
+    4.Population of Bhutan
+    5.population of Kenya
+    6.Population of Bangladesh
 
 ## SWOT ANALYSIS
 
