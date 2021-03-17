@@ -18,6 +18,11 @@
 ## SWOT ANALYSIS
 
 
+
+![SWOT](https://user-images.githubusercontent.com/78854076/111472503-066ef300-8750-11eb-95bd-0674ab37c7b2.PNG)
+
+
+
 4W's and 1'H
 Who:
 **User**
