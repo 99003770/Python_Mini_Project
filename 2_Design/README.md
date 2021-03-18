@@ -1,7 +1,18 @@
 ## Design
-High Level Design
+## High Level Design
+Structural Diagram
 
 
 
-Low Level Design
 
+Behavioural Diagram
+
+
+
+
+## Low Level Design
+Structural Diagram
+
+
+
+Behavioural Diagram
