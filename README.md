@@ -8,4 +8,4 @@ The aim of the project is to extract the data present in different spreadsheets 
 
  
 
-The user defines the data that needs to be searched on the basis of year. The python program then reads the data corresponding to the particular data from different spreadsheets of excel. It then creates a mastersheet and adds the data from all the sheets to it.
+The user defines the data that needs to be searched on the basis of year. The python program then reads the data corresponding to the particular data from different spreadsheets of excel. It then creates a mastersheet and adds the data from all the sheets to it. At the end it will generate another mastersheet containing total no of rows and columns.
