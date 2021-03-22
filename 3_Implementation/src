@@ -11,9 +11,9 @@ a = int(input("Enter year: "))
 for sheet in sheets:
 # loop through sheets inside an Excel file
  d = pd.read_excel('New1.xlsx', sheet_name=sheet)
- df1 = pd.DataFrame(d[d['year'] == a], columns=d.columns)
+ dataframe = pd.DataFrame(d[d['year'] == a], columns=d.columns)
 # here we are joining all the data of that particular person
- df_total = df_total.join(df1, how='outer',lsuffix=' ', rsuffix=' ')
+ df_total = df_total.join(dataframe, how='outer',lsuffix=' ', rsuffix=' ')
 # taking the path from the excel sheet
 path = "New1.xlsx"
 book = load_workbook(path)
