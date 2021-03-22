@@ -39,12 +39,12 @@ Where:
 How:
 **By using python Programming**
 
-Detail requirements
+## Detail requirements
 
  High Level Requirements:
-     1.Finding particular input from plethora of data.
-     2.Creating mastersheet for required data in the same excel file.
-     3.Search data from sheet according to input
+      1.Finding particular input from plethora of data.
+      2.Creating mastersheet for required data in the same excel file.
+      3.Search data from sheet according to input
 
 Low level Requirements:
 1. The data sheet will contains 40 rows and 10 columns.
